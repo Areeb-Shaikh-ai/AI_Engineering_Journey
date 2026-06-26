@@ -1,23 +1,35 @@
-# Engineering Log — 26 June 2026
+# AI Engineering Journey
 
-## Completed
-- Created AI Engineering Journey repository
-- Set up Git and GitHub workflow
-- Finalized NPTEL foundation courses:
-  - DSA
-  - DBMS
-  - Linear Algebra
+Started: 26 June 2026
 
-## Engineering Concepts Learned
-- Git tracks changes through commits
-- GitHub stores remote repositories
-- Learned workflow:
-  Local changes → add → commit → push
+A structured learning repository documenting my journey as a Computer Science (AI & ML) student building foundations in software engineering, AI systems, mathematics, and product thinking.
 
-## Decisions Made
-- GitHub will contain structured engineering progress
+## Current Focus
 
-## Next Steps
-- Complete GitHub profile setup
-- Setup LinkedIn and LeetCode
-- Begin structured DSA + NPTEL routine
+- Software Engineering
+- AI Engineering
+- Mathematics for AI
+- Systems & Architecture
+- Product Thinking
+
+## Current Phase
+
+Foundation Building
+
+## Core Foundation Stack
+
+- Data Structures & Algorithms
+- Database Management Systems
+- Linear Algebra for Machine Learning
+
+## Repository Structure
+
+- 00_Engineer_Log → Daily engineering progress and reflections
+- 01_DSA → Data Structures & Algorithms practice
+- 02_DBMS → Database concepts and notes
+- 03_LinearAlgebra → Mathematical foundations for AI
+- 04_NPTEL → Course tracking and resources
+
+## Goal
+
+To build strong foundations in software engineering, AI engineering, and applied mathematics through consistent learning, building, and documentation.
