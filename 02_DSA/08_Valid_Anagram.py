@@ -1,3 +1,4 @@
+#242 LEETCODE
 '''
 If len(s) != len(t), return False.
 countS = {}.
