@@ -3,8 +3,10 @@ The Algoithm is as follows:
 Take an input list, and target
 create a dictionary seen
 Loop through the list
-remember the no. in the dictionary, and keep the target in the variable, try if th value can be target, 
-if target is there in the list You output, both nums and their index
+remember the no. in the dictionary, and keep the 
+target in the variable, try if th value can be target, 
+if target is there in the list You output, both nums and 
+their index
 '''
 #Leetcode #1
 class Solution:
